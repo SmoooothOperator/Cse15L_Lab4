@@ -1,0 +1,15 @@
+# CSE15L Lab 4
+
+**VIM** <br>
+
+Step 4: Log into ieng6 <br>
+![Image](2_test_JUnit.png) <br>
+Keys pressed: ssh,<space>,cs15lfa23bu@ieng6.ucsd.edu <br>
+I used the ssh command by pressing the repective letter keys, then space, then used my account info to log into ieng6 <br>
+
+Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
+![Image](2_test_JUnit.png) <br>
+Keys pressed: cd,<space>,lab4,git,<space>,clone,<space>,https://github.com/SmoooothOperator/lab7.git
+I cd into the lab4 directory I made beforehand, then used git clone followed by the repository url to clone the directory into ieng6 <br>
+
+Step 6: 
