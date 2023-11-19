@@ -30,6 +30,6 @@ I use :q, which quits vim, and then i used up arrow key to access the previously
 
 Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!) <br>
 ![Image](Step 9.png) <br>
-Keys pressed: git,<space>,add,<space>,.,git,<space>,commit,<space>,-m,<space>,"fixed_error",git,<space>,push,myusername,mypassword <br>
-I used git add . to add all changes to be commited, then used git commit to commit those changes with the -m to add a message, which is "fixed error". I then used git push to push the changes, entering my username and password for authentification <br>
+Keys pressed: git,<space>,add,<space>,.,git,<space>,commit,<space>,-m,<space>,"fixed_error",git,<space>,push <br>
+I used git add . to add all changes to be commited, then used git commit to commit those changes with the -m to add a message, which is "fixed error". I then used git push to push the changes <br>
 
